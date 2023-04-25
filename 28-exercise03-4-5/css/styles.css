@@ -1,0 +1,60 @@
+/*
+#F6EEC7 
+#F7D695
+#FFB961
+#F3826F
+#C05C7E
+#2D3561
+*/
+
+html{
+    background-color:#2D3561 ;
+    font-family:'Special Elite';
+    font-size:22px;
+    color: #2D3561;
+}
+body{
+    display:flexbox;
+    margin: 0 auto;
+    width: 1150px;
+    border-top: 0.5rem;
+    padding-top: 0.5rem;
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+
+.main-container{
+    background-color: #FFB961;
+    padding-top: 1rem;
+    padding-bottom: 5rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+    border-radius: 2.5rem;
+    
+}
+
+.main-container h1{
+    font-weight: bold;
+    text-align: center;
+    font-size: 3rem;
+   
+}
+
+.main-container h2{
+    text-align: left;
+    font-family:'Special Elite';
+    font-weight: bold;
+}
+
+.main-container h4{
+    text-align: left;
+    font-family: 'Special Elite';
+    font-weight: bold;
+}
+
+.main-container-part1{
+   font-style: italic;
+   font-family: 'Special Elite';
+}
