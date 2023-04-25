@@ -6,7 +6,7 @@
 
 ## Exercise 2
 
-![2023-04-25 12_45_44-Exercise 2 - Brave](https://user-images.githubusercontent.com/57563030/234254317-dcdb3343-0a99-4e7a-a194-c80bf4870460.png)
+![2023-04-25 12_47_46-Window](https://user-images.githubusercontent.com/57563030/234254684-2bd77722-9c58-4d9b-bf10-12c12539785b.png)
 
 ## Exercise 3
 
