@@ -6,6 +6,8 @@
 
 ## Exercise 2
 
+![2023-04-25 12_47_46-Window](https://user-images.githubusercontent.com/57563030/234254684-2bd77722-9c58-4d9b-bf10-12c12539785b.png)
+
 ## Exercise 3
 
 ## Exercise 4
