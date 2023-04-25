@@ -6,6 +6,8 @@
 
 ## Exercise 2
 
+![2023-04-25 12_45_44-Exercise 2 - Brave](https://user-images.githubusercontent.com/57563030/234254317-dcdb3343-0a99-4e7a-a194-c80bf4870460.png)
+
 ## Exercise 3
 
 ## Exercise 4
