@@ -48,13 +48,24 @@ body{
     font-weight: bold;
 }
 
-.main-container h4{
+.main-container h3{
     text-align: left;
     font-family: 'Special Elite';
     font-weight: bold;
 }
 
 .main-container-part1{
+    height: 106px;
+    background-color:  #F3826F ;
    font-style: italic;
    font-family: 'Special Elite';
 }
+
+.main-container-part3 span{
+   background-color:#F7D695;
+   font-style: italic;
+}
+
+.main-container-part3 p{
+    font-weight: 500;
+ }
