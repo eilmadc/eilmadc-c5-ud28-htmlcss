@@ -11,7 +11,7 @@
 
 ## Exercise 3 - 4 - 5
 
-![image](https://user-images.githubusercontent.com/57563030/234272616-2e370dea-74c7-4ecc-9684-22e4b1deca11.png)
+![image](https://user-images.githubusercontent.com/57563030/234794245-f8340de3-edc6-4365-b9ce-7beeef537d91.png)
 
 ## Exercise 6
 
