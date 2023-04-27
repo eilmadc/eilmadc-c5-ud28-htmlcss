@@ -1,6 +1,6 @@
 ##### eilmadc-c5-ud28-htmlcss
  ## C5 ud28 html css
-![image](https://user-images.githubusercontent.com/57563030/234793617-913f9f79-6100-4a90-a796-c1d20882166a.png)
+![image](https://user-images.githubusercontent.com/57563030/234793769-409138e6-b2f4-4edd-a437-ef51c9880fd3.png)
 
 ## Exercise 1
 ![image](https://user-images.githubusercontent.com/57563030/234236885-f7caad8d-8d04-47b2-ab11-ba268e1de3ac.png)
