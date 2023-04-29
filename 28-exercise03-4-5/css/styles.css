@@ -14,12 +14,13 @@ html{
     color: #2D3561;
 }
 body{
+    width: 1150px;
     display:flexbox;
     margin: 0 auto;
-    width: 1150px;
+    margin-top: 2%;
+    margin-bottom: 2%;
     border-top: 0.5rem;
     padding-top: 0.5rem;
-    padding-top: 1rem;
     padding-bottom: 5rem;
     padding-left: 5rem;
     padding-right: 5rem;
@@ -28,7 +29,7 @@ body{
 .main-container{
     background-color: #FFB961;
     padding-top: 1rem;
-    padding-bottom: 5rem;
+    padding-bottom: 1rem;
     padding-left: 5rem;
     padding-right: 5rem;
     border-radius: 2.5rem;
