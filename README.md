@@ -14,12 +14,6 @@
 ![image](https://user-images.githubusercontent.com/57563030/234796662-b62fb83a-33af-4736-b798-b08a3415ffbc.png)
 
 
-## Exercise 6
+## Exercise 6 - 7 - 8 - 9 -10
 
-## Exercise 7
-
-## Exercise 8
-
-## Exercise 9
-
-## Exercise 10
+![image](https://user-images.githubusercontent.com/57563030/235376431-131fc557-5e64-454a-aa87-f3333462f7f0.png)
