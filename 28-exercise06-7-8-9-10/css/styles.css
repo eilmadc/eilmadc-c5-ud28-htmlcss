@@ -1,0 +1,140 @@
+/*
+Colour Palette
+#FFFFFF
+#DFDFDF
+#4A4261
+#E2CFB3
+#BD873A
+#5A9230
+#7EB51D
+#C7EA86
+*/
+
+html {
+  background-color: #dfdfdf;
+  font-family: "Lucida Sans Unicode";
+  font-size: 12px;
+  color: #4a4261;
+}
+body {
+  width: 900px;
+  height: auto;
+  display: flexbox;
+  margin: 0 auto;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+}
+
+/*Main Container*/
+.main-container {
+  background-color: #ffffff;
+  padding: 1rem;
+  border-radius: 2.5rem;
+  display: block;
+}
+
+/*Main Container Part 1: title+image*/
+.main-container-part1 {
+  text-align: left;
+  font-weight: bold;
+  padding: 0.5rem;
+}
+.main-container-part1 h1 {
+  font-weight: bold;
+  text-align: center;
+  font-size: 2rem;
+}
+
+.h1__one {
+  color: #5a9230;
+}
+.h1__two {
+  color: #bd873a;
+}
+
+.main-container-part1 .img {
+  object-fit: none;
+  width: 1150px;
+  height: auto;
+}
+
+.main-container-part2 {
+  width: 15%;
+  height: 700px;
+  float: left;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  
+  
+}
+
+.main-container-part2 .menu__option ul{
+margin-block-start: 0.2em;
+}
+
+.main-container-part2 .menu__option {
+  width: 100%;
+  border: 1px solid #dfdfdf;
+  margin: 0.5rem;
+  padding: 0.5rem;
+  text-align: center;
+  background-color: #c7ea86;
+  text-decoration: none;
+  list-style-type: none; 
+}
+.main-container-part2 .menu__option:hover{
+    width: 100%;
+    border: 1px solid #dfdfdf;
+    margin: 0.5rem;
+    padding: 0.5rem;
+    text-align: center;
+    background-color: #E2CFB3;
+    list-style-type: none;
+    text-decoration: none;
+  }
+
+  .main-container-part2 .menu__option a{
+    text-decoration: none;
+    list-style-type: none; 
+    color: #4a4261;
+    font-weight: bold;
+}
+
+.main-container-part3 {
+    width: 76%;
+    float: right;
+  margin: 2.5rem;
+  margin-top: 2rem;
+  background-color: #ffffff;
+  border-color: #dfdfdf;
+  border-style: solid;
+  padding: 0.5rem;
+  text-justify: newspaper;
+}
+
+.main-container-part3 h2 {
+  font-weight: 600;
+  font-weight: bold;
+  color: #7eb51d;
+}
+
+.main-container-part3 h3 {
+  font-weight: 600;
+  font-weight: bold;
+  color: #bd873a;
+}
+.main-container-part3 p {
+  font-weight: 500;
+}
+.main-container-part3 hr {
+  color: #dfdfdf;
+  border-radius: 10px;
+  border-color: #dfdfdf;
+}
+.footer__container {
+  color: #dfdfdf;
+  font-size: 0.8rem;
+  text-align: center;
+}
